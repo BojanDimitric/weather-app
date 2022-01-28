@@ -1,0 +1,7 @@
+export const GET_WEATHER_START: string = 'GET_WEATHER_START';
+export const GET_WEATHER_SUCCESS: string = 'GET_WEATHER_SUCCESS';
+export const GET_WEATHER_FAIL: string = 'GET_WEATHER_FAIL';
+
+export const GET_COUNTRIES_START: string = 'GET_COUNTRIES_START';
+export const GET_COUNTRIES_SUCCESS: string = 'GET_COUNTRIES_SUCCESS';
+export const GET_COUNTRIES_FAIL: string = 'GET_COUNTRIES_FAIL';
